@@ -7,5 +7,6 @@ public class FirstTest {
 
 		System.out.println("Hello Archana....");
 		System.out.println("Welcome to NITOR");
+		System.out.println("Welcome to NITOR");
 	}
 }
